@@ -18,7 +18,8 @@ h1    {
 body {
     background-image: url('images/pexels-rosemary-ketchum-1564470-a.jpg');
     background-position:center; 
-    background-size: 100vw;
+    /* background-size: 100vw; */
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
